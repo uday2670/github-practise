@@ -1,0 +1,19 @@
+version: "3"
+services:
+  moongodb:
+    -name: mongodb
+     image: mongo
+     env:
+       mongodb _init_usename: "mongouser"
+       monodb_init_passord: "password"
+      port:
+        - 27017:27017
+
+    app:
+      -name: web application
+       image: tomact:latest
+       ports:
+         - 8080:8080
+        links:
+          - mongodb
+
