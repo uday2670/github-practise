@@ -1,0 +1,11 @@
+apiversion:  v1
+kind: service
+metadata:
+  name: ngnix-service
+spec:
+  type: nodeport
+  ports:
+    -containerport: 80
+     protocal: tcp
+  selector:
+    app: appache
