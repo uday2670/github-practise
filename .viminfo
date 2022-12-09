@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1670588554,,"wq"
+|2,0,1670588872,,"wq"
 :qa!
 |2,0,1670582479,,"qa!"
 
@@ -27,34 +27,42 @@
 # Registers:
 
 # File marks:
-'0  1  39  ~/ystabe.file
-|4,48,1,39,1670588554,"~/ystabe.file"
-'1  1  54  ~/text.file
-|4,49,1,54,1670588260,"~/text.file"
-'2  74  0  ~/jenkinsfile
-|4,50,74,0,1670587812,"~/jenkinsfile"
-'3  74  0  ~/jenkinefile
-|4,51,74,0,1670582479,"~/jenkinefile"
-'4  74  0  ~/Jenkinsfile
-|4,52,74,0,1670582382,"~/Jenkinsfile"
-'5  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,53,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
-'6  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,54,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
-'7  3  25  ~/Jenkins-Docker-Project/Dockerfile
-|4,55,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
+'0  1  91  ~/terraform.txt
+|4,48,1,91,1670588872,"~/terraform.txt"
+'1  1  39  ~/ystabe.file
+|4,49,1,39,1670588554,"~/ystabe.file"
+'2  1  54  ~/text.file
+|4,50,1,54,1670588260,"~/text.file"
+'3  74  0  ~/jenkinsfile
+|4,51,74,0,1670587812,"~/jenkinsfile"
+'4  74  0  ~/jenkinefile
+|4,52,74,0,1670582479,"~/jenkinefile"
+'5  74  0  ~/Jenkinsfile
+|4,53,74,0,1670582382,"~/Jenkinsfile"
+'6  4  0  ~/Jenkins-Docker-Project/Dockerfile
+|4,54,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
+'7  4  78  ~/Jenkins-Docker-Project/Dockerfile
+|4,55,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
 '8  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,56,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
 '9  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,57,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  91  ~/terraform.txt
+|4,39,1,91,1670588872,"~/terraform.txt"
+-'  1  39  ~/ystabe.file
+|4,39,1,39,1670588554,"~/ystabe.file"
 -'  1  39  ~/ystabe.file
 |4,39,1,39,1670588554,"~/ystabe.file"
 -'  1  54  ~/text.file
 |4,39,1,54,1670588260,"~/text.file"
 -'  1  54  ~/text.file
 |4,39,1,54,1670588260,"~/text.file"
+-'  1  54  ~/text.file
+|4,39,1,54,1670588260,"~/text.file"
+-'  1  54  ~/text.file
+|4,39,1,54,1670588260,"~/text.file"
 -'  74  0  ~/jenkinsfile
 |4,39,74,0,1670587812,"~/jenkinsfile"
 -'  74  0  ~/jenkinsfile
@@ -63,6 +71,22 @@
 |4,39,74,0,1670587812,"~/jenkinsfile"
 -'  74  0  ~/jenkinsfile
 |4,39,74,0,1670587812,"~/jenkinsfile"
+-'  74  0  ~/jenkinsfile
+|4,39,74,0,1670587812,"~/jenkinsfile"
+-'  74  0  ~/jenkinsfile
+|4,39,74,0,1670587812,"~/jenkinsfile"
+-'  74  0  ~/jenkinsfile
+|4,39,74,0,1670587812,"~/jenkinsfile"
+-'  74  0  ~/jenkinsfile
+|4,39,74,0,1670587812,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1670587796,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1670587796,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1670587796,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1670587796,"~/jenkinsfile"
 -'  1  0  ~/jenkinsfile
 |4,39,1,0,1670587796,"~/jenkinsfile"
 -'  1  0  ~/jenkinsfile
@@ -87,6 +111,38 @@
 |4,39,74,0,1670582479,"~/jenkinefile"
 -'  74  0  ~/jenkinefile
 |4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
 -'  1  0  ~/jenkinefile
 |4,39,1,0,1670582470,"~/jenkinefile"
 -'  1  0  ~/jenkinefile
@@ -135,6 +191,38 @@
 |4,39,74,0,1670582382,"~/Jenkinsfile"
 -'  74  0  ~/Jenkinsfile
 |4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1670582361,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
@@ -161,96 +249,15 @@
 |4,39,1,0,1670582361,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1670582361,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1670582361,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1670582361,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1670582361,"~/Jenkinsfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
--'  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/terraform.txt
+	*	1670588870	0
+	"	1	91
+	^	1	92
+	.	1	92
+	+	1	92
 
 > ~/ystabe.file
 	*	1670588552	0
