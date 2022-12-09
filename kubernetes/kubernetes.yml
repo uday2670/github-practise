@@ -1,0 +1,22 @@
+apiversion:  apps/vi
+kind: Deployment
+metadata:
+  name: tomcat-deployment
+spec:
+  selector:
+    matchLabels: 
+      app: appache
+  replicaset: 2
+  strategy:
+    type: recreate
+  template:
+    metadata:
+      labels:
+         app: appache
+    spec:
+      containers:
+       -name: appache
+         image: httpd
+          ports:
+            -containerport: 80
+
