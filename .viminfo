@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :qa!
-|2,0,1670582382,,"qa!"
+|2,0,1670582479,,"qa!"
 :wq
 |2,0,1670570482,,"wq"
 
@@ -27,36 +27,52 @@
 # Registers:
 
 # File marks:
-'0  74  0  ~/Jenkinsfile
-|4,48,74,0,1670582382,"~/Jenkinsfile"
-'1  4  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,49,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
-'2  4  78  ~/Jenkins-Docker-Project/Dockerfile
-|4,50,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
-'3  3  25  ~/Jenkins-Docker-Project/Dockerfile
-|4,51,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
+'0  74  0  ~/jenkinefile
+|4,48,74,0,1670582479,"~/jenkinefile"
+'1  74  0  ~/Jenkinsfile
+|4,49,74,0,1670582382,"~/Jenkinsfile"
+'2  4  0  ~/Jenkins-Docker-Project/Dockerfile
+|4,50,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
+'3  4  78  ~/Jenkins-Docker-Project/Dockerfile
+|4,51,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
 '4  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,52,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
 '5  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,53,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
 '6  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,54,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
-'7  4  105  ~/Jenkins-Docker-Project/Dockerfile
-|4,55,4,105,1670570288,"~/Jenkins-Docker-Project/Dockerfile"
+'7  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,55,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
 '8  4  105  ~/Jenkins-Docker-Project/Dockerfile
 |4,56,4,105,1670570288,"~/Jenkins-Docker-Project/Dockerfile"
 '9  4  105  ~/Jenkins-Docker-Project/Dockerfile
 |4,57,4,105,1670570288,"~/Jenkins-Docker-Project/Dockerfile"
 
 # Jumplist (newest first):
+-'  74  0  ~/jenkinefile
+|4,39,74,0,1670582479,"~/jenkinefile"
+-'  1  0  ~/jenkinefile
+|4,39,1,0,1670582470,"~/jenkinefile"
 -'  74  0  ~/Jenkinsfile
 |4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  74  0  ~/Jenkinsfile
+|4,39,74,0,1670582382,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1670582361,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1670582361,"~/Jenkinsfile"
 -'  4  0  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
 -'  4  0  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
+-'  4  0  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
+-'  4  0  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,4,0,1670570482,"~/Jenkins-Docker-Project/Dockerfile"
+-'  4  78  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
+-'  4  78  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
 -'  4  78  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,4,78,1670570387,"~/Jenkins-Docker-Project/Dockerfile"
 -'  4  78  ~/Jenkins-Docker-Project/Dockerfile
@@ -70,6 +86,18 @@
 -'  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,3,25,1670570338,"~/Jenkins-Docker-Project/Dockerfile"
 -'  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,25,1670570338,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,25,1670570338,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,25,1670570338,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,25,1670570338,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  25  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
 -'  3  25  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,3,25,1670570326,"~/Jenkins-Docker-Project/Dockerfile"
@@ -81,6 +109,18 @@
 |4,39,5,20,1670570306,"~/Jenkins-Docker-Project/Dockerfile"
 -'  5  20  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,5,20,1670570306,"~/Jenkins-Docker-Project/Dockerfile"
+-'  5  20  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,5,20,1670570306,"~/Jenkins-Docker-Project/Dockerfile"
+-'  5  20  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,5,20,1670570306,"~/Jenkins-Docker-Project/Dockerfile"
+-'  5  20  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,5,20,1670570306,"~/Jenkins-Docker-Project/Dockerfile"
+-'  5  20  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,5,20,1670570306,"~/Jenkins-Docker-Project/Dockerfile"
+-'  5  20  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,5,20,1670570288,"~/Jenkins-Docker-Project/Dockerfile"
+-'  5  20  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,5,20,1670570288,"~/Jenkins-Docker-Project/Dockerfile"
 -'  5  20  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,5,20,1670570288,"~/Jenkins-Docker-Project/Dockerfile"
 -'  5  20  ~/Jenkins-Docker-Project/Dockerfile
@@ -97,6 +137,18 @@
 |4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
 -'  9  11  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
+-'  9  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
+-'  9  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
+-'  9  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
+-'  9  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
+-'  9  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
+-'  9  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,9,11,1670570227,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  11  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  11  ~/Jenkins-Docker-Project/Dockerfile
@@ -109,6 +161,26 @@
 |4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  11  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  11  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,11,1670570197,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  8  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,8,1670570175,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  8  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,8,1670570175,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  8  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,8,1670570175,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  8  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,8,1670570175,"~/Jenkins-Docker-Project/Dockerfile"
 -'  3  8  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,3,8,1670570175,"~/Jenkins-Docker-Project/Dockerfile"
 -'  3  8  ~/Jenkins-Docker-Project/Dockerfile
@@ -121,10 +193,22 @@
 |4,39,3,8,1670570165,"~/Jenkins-Docker-Project/Dockerfile"
 -'  3  8  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,3,8,1670570165,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  8  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,8,1670570165,"~/Jenkins-Docker-Project/Dockerfile"
+-'  3  8  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,3,8,1670570165,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  23  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,10,23,1670570126,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  23  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,10,23,1670570126,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  23  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,23,1670570126,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  23  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,23,1670570126,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  23  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,23,1670570100,"~/Jenkins-Docker-Project/Dockerfile"
+-'  10  23  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,10,23,1670570100,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  23  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,10,23,1670570100,"~/Jenkins-Docker-Project/Dockerfile"
 -'  10  23  ~/Jenkins-Docker-Project/Dockerfile
@@ -158,99 +242,22 @@
 -'  1  0  ~/Jenkins-Docker-Project/Dockerfile
 |4,39,1,0,1670569766,"~/Jenkins-Docker-Project/Dockerfile"
 -'  1  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,1,0,1670569728,"~/Jenkins-Docker-Project/Dockerfile"
+|4,39,1,0,1670569766,"~/Jenkins-Docker-Project/Dockerfile"
 -'  1  0  ~/Jenkins-Docker-Project/Dockerfile
-|4,39,1,0,1670569728,"~/Jenkins-Docker-Project/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
--'  1  0  /var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile
-|4,39,1,0,1670568892,"/var/lib/jenkins/workspace/pipe2/webapp/target/webapp/Dockerfile"
+|4,39,1,0,1670569766,"~/Jenkins-Docker-Project/Dockerfile"
+-'  1  0  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,1,0,1670569766,"~/Jenkins-Docker-Project/Dockerfile"
+-'  1  0  ~/Jenkins-Docker-Project/Dockerfile
+|4,39,1,0,1670569766,"~/Jenkins-Docker-Project/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkinefile
+	*	1670582476	0
+	"	74	0
+	^	74	1
+	.	74	0
+	+	74	0
 
 > ~/Jenkinsfile
 	*	1670582379	0
