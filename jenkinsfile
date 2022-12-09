@@ -1,0 +1,74 @@
+pipeline {
+    agentany
+    tools{
+        maven"m3"
+    }
+    stages{
+        
+        stage('git checkout'){
+            steps{
+                script{
+                    git branch: 'main', url: 'http://uday.interviw.git'
+                }
+            }
+        }  
+        stage('junit'){
+            steps{
+                script{
+                    sh " mvn test"
+                }
+            }
+        }
+       
+       stage('maven build'){
+            steps{
+                script{
+                    sh " mvn clean install"
+                }
+            }
+        } 
+       stage('code quality analysis'){
+            steps{
+                script{
+                    withsonarqubeEnv( credentialsId: ('sonarid'))
+                    sh " mvn clean package sonar:sonar"
+                }
+            }
+        }
+        stage('qualitygate'){
+            steps{
+                script{
+                    waitforQualityGate abortpipeline:false ,credentialsId: 'sonarid' 
+                }
+            }
+        }
+        post{
+            failure{
+                mail to: "udaykommaraju",
+                      subject: 'pipeline for dev environment failed'
+            }
+        }
+       stage('docker loginand docker buils and docker push'){
+
+        agent {label'node1'}
+
+        when{environment name:'buildme ', value:'yes'}
+        steps{
+            script{
+                sh """
+
+                    docker login -u username -p password
+                    docker build -t ${image} .
+                    docker tag ${image}.${version}
+                    docker push ${reposutory url ecr}
+
+
+                """
+            }
+        }
+
+
+       }
+        
+    }
+}
